@@ -1,4 +1,4 @@
-package AAula1teste;
+package NumerosPrimos;
 import java.util.Scanner;
 
 public class Primos {
